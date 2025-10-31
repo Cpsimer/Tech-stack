@@ -1,0 +1,5 @@
+[[Frameworks]] 
+[[Platforms]] 
+[[Accelerators]]  
+[[MLOps]] 
+[[../Dependancies/Ml with Ruby]] 

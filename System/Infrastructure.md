@@ -1,0 +1,5 @@
+[[../Dependancies/Linux|Linux]] 
+[[../Dependancies/Docker|Docker]]
+[[../Dependancies/Redis|Redis]]
+[[../Dependancies/SQL|SQL]]
+[[../Dependancies/JetBrains|JetBrains]]

@@ -1,3 +1,0 @@
-[[Cuda]]
-[[RAPIDS]] 
-[[RAY]] 

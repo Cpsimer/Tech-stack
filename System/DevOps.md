@@ -1,0 +1,5 @@
+[[../Dependancies/Docker|Docker]]
+[[../Dependancies/Kubernetes|Kubernetes]]
+[[../Dependancies/MicroK8s|MicroK8s]]
+[[../Dependancies/Git|Git]]
+[[../Dependancies/Slurm|Slurm]]
